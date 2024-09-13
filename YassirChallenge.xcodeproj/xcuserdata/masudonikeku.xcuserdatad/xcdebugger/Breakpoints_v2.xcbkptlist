@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A9E91B19-DAE0-4F30-846C-47AC1EB5944A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47B0B042-F05F-41FD-9445-A909434F4AD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YassirChallenge/MVVM/View Model/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchCharacters()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D658650-D711-4673-AAA4-C499B9F5791B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YassirChallenge/MVVM/Views/UIKit/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D658650-D711-4673-AAA4-C499B9F5791B - 4c3d7df74b886831"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () async -&gt; () in YassirChallenge.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "YassirChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/YassirChallenge/YassirChallenge/MVVM/Views/UIKit/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4D658650-D711-4673-AAA4-C499B9F5791B - c438572928330ded"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 () async -&gt; () in implicit closure #1 (YassirChallenge.ViewModel) -&gt; () async -&gt; () in closure #1 @Sendable () async -&gt; () async -&gt; () in YassirChallenge.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "YassirChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/YassirChallenge/YassirChallenge/MVVM/Views/UIKit/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  uuid = "4D658650-D711-4673-AAA4-C499B9F5791B - 35b2f88d802d7fa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for implicit closure #2 () async -&gt; () in implicit closure #1 (YassirChallenge.ViewModel) -&gt; () async -&gt; () in closure #1 @Sendable () async -&gt; () async -&gt; () in YassirChallenge.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "YassirChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/YassirChallenge/YassirChallenge/MVVM/Views/UIKit/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "4D658650-D711-4673-AAA4-C499B9F5791B - 36246c2b3db636"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for implicit closure #2 () async -&gt; () in implicit closure #1 (YassirChallenge.ViewModel) -&gt; () async -&gt; () in closure #1 @Sendable () async -&gt; () async -&gt; () in YassirChallenge.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "YassirChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/YassirChallenge/YassirChallenge/MVVM/Views/UIKit/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E5AC144-455E-453A-AA29-F71AFFCA41F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YassirChallenge/Helpers/Extensions/UIView + Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchImage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E5AC144-455E-453A-AA29-F71AFFCA41F1 - 7e005dadf3def1c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in __C.UIImageView.fetchImage(url: Swift.String) -&gt; ()"
+                  moduleName = "YassirChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/YassirChallenge/YassirChallenge/Helpers/Extensions/UIView%20+%20Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "1E5AC144-455E-453A-AA29-F71AFFCA41F1 - 7e005dadf3def1c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in __C.UIImageView.fetchImage(url: Swift.String) -&gt; ()"
+                  moduleName = "YassirChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/YassirChallenge/YassirChallenge/Helpers/Extensions/UIView%20+%20Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "193">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64676FEA-A96C-4C69-B78D-D5296A5AE180"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YassirChallenge/Helpers/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchImage(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07419D1B-256D-4F91-9D26-E30A396A34C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YassirChallenge/Helpers/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "fetchImage(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15E0B4D8-A252-4227-A17D-438DA24AE1A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YassirChallenge/Helpers/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "fetchImage(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF6DE90F-98F8-416D-A693-934624429672"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YassirChallenge/Helpers/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchImage(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF6DE90F-98F8-416D-A693-934624429672 - 7ee6244614bc5932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in YassirChallenge.Network.fetchImage(url: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "YassirChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/YassirChallenge/YassirChallenge/Helpers/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "EF6DE90F-98F8-416D-A693-934624429672 - 7ee6244614bc5932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in YassirChallenge.Network.fetchImage(url: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "YassirChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/YassirChallenge/YassirChallenge/Helpers/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "287">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
