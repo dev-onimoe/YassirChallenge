@@ -198,6 +198,7 @@
                                         </tableViewCellContentView>
                                         <connections>
                                             <outlet property="Charimage" destination="OVB-ss-OrG" id="Dpt-qy-geb"/>
+                                            <outlet property="bggView" destination="zu4-f4-AWG" id="VXP-WP-8up"/>
                                             <outlet property="name" destination="yfB-La-BnS" id="qas-xY-6OU"/>
                                             <outlet property="type" destination="7lz-dQ-eyP" id="haJ-QL-fkz"/>
                                         </connections>

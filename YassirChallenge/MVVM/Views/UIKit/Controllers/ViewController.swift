@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var statusStack : UIStackView!
     @IBOutlet weak var tableView : UITableView!
     
+    
     let viewModel = ViewModel()
     var chars : [Character] = []
     var filteredChars : [Character] = []
@@ -139,6 +140,7 @@ extension ViewController : UITableViewDelegate, UITableViewDataSource {
         let cell = tableView.dequeueReusableCell(withIdentifier: "CharacterCell", for: indexPath) as! CharacterTableViewCell
         let char = self.refChars[indexPath.row]
         cell.selectionStyle = .none
+        cell.bggView.backgroundColor = listColors.randomElement()
         cell.Charimage.fetchImage(url: char.image)
         cell.name.text = char.name
         cell.type.text = char.species
